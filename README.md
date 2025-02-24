@@ -8,7 +8,7 @@
 
 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br>
 
-📅 Kurs __10 Mart 2025 Pazartesi__ günü başlayacaktır. <br>
+📅 Kurs __24 Mart 2025 Pazartesi__ günü başlayacaktır. <br>
 
 ⏰ Dersler __Pazartesi ve Çarşamba__ günleri __19:30 - 22.30__ saatleri arasında yapılacaktır.<br>
 
