@@ -28,9 +28,8 @@ Bireysel katılımlar için kurs ücretine KDV dahildir.<br><br>
 &#128279; [Kursun Eğitmeni](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_egitmeni.md)<br>
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/KURS_PROGRAMLARI/blob/main/ileri_cplusplus.md)<br>
 &#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZ0pdu-sqz8iGNaa0808LlzeNBCrKbS9nYbq)
-<!---
 
 
 ![kurs tanıtım görseli](https://github.com/necatiergin/MART-2025-ILERI-CPP/blob/main/ileri_cpp_gorsel.png)
---->
+
 
