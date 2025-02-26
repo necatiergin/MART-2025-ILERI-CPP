@@ -103,7 +103,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/index.php/tr/) gibi kurumlar yer almaktadır.
 
 ## Format
-+ İleri __C++ Kursu__ online olarak gerçek zamanlı verilmektedir. __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene sesli ya da yazarak soru sorabilirler.
++ İleri __C++ Kursu__ online olarak gerçek zamanlı verilmektedir. __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ platformu kullanılmaktadır. Ders sırasında öğrenciler eğitmene sesli ya da yazarak soru sorabilirler.
 
 <!---
 ## Kursa kayıt
