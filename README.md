@@ -31,6 +31,6 @@ Bireysel katılımlar için kurs ücretine KDV dahildir.<br><br>
 <!---
 
 
-![kurs tanıtım görseli](https://github.com/necatiergin/HAZIRAN_2023_ONLINE_ILERI-CPP_KURSU/blob/main/ileri_cpp_kursu_gorseli.png)
+![kurs tanıtım görseli](https://github.com/necatiergin/MART-2025-ILERI-CPP/blob/main/ileri_cpp_gorsel.png)
 --->
 
