@@ -11,6 +11,7 @@
 📅 Kurs __24 Mart 2025 Pazartesi__ günü başlayacaktır. <br>
 
 ⏰ Dersler __Pazartesi ve Çarşamba__ günleri __19:30 - 22.30__ saatleri arasında yapılacaktır.<br>
+Öğrenciler kaçırdıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden izleyebilirler.
 
 ⌛ Kursun toplam süresi __160__ saattir. <br>
 
