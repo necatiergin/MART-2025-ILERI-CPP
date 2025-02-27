@@ -51,7 +51,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Bull Technologies](https://www.linkedin.com/company/bull-technologies/),
 [Cardtek](https://www.paycore.com/), 
 [Crytek](https://www.crytek.com/), 
-[Ctech](https://ctech.com.tr/tr),
+<!---[Ctech](https://ctech.com.tr/tr), --->
 [Daiichi](https://www.daiichi.com/tr/ana-sayfa/),
 [E-data Teknoloji](https://e-data.com.tr/),
 [EEC Electronics](https://eecelectronics.com.tr/),
