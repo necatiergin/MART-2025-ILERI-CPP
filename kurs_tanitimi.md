@@ -51,7 +51,6 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Bull Technologies](https://www.linkedin.com/company/bull-technologies/),
 [Cardtek](https://www.paycore.com/), 
 [Crytek](https://www.crytek.com/), 
-<!---[Ctech](https://ctech.com.tr/tr), --->
 [Daiichi](https://www.daiichi.com/tr/ana-sayfa/),
 [E-data Teknoloji](https://e-data.com.tr/),
 [EEC Electronics](https://eecelectronics.com.tr/),
@@ -105,8 +104,8 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 ## Format
 + İleri __C++ Kursu__ online olarak gerçek zamanlı verilmektedir. __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ platformu kullanılmaktadır. Ders sırasında öğrenciler eğitmene sesli ya da yazarak soru sorabilirler.
 
-<!---
 ## Kursa kayıt
-+ [Kursa ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZcrcOmspjstGNZHDwFJN2Nytk3i4XuzoveJ)
++ [Kursa ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZ0pdu-sqz8iGNaa0808LlzeNBCrKbS9nYbq)
 Kursa ön kayıt yaptıranlar ile _(kesin kayıt için)_ Whatsapp ya da Telefon üzerinden iletişime geçilecektir.
---->
+
+<!---[Ctech](https://ctech.com.tr/tr), --->
